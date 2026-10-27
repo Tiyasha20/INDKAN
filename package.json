@@ -1,0 +1,16 @@
+{
+  "name": "indkan-business-platform",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix website run dev",
+    "build": "npm --prefix website run build",
+    "dev:web": "npm --prefix website run dev",
+    "build:web": "npm --prefix website run build",
+    "start:api": "npm --prefix server start",
+    "dev:api": "npm --prefix server run dev"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}

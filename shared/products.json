@@ -1,0 +1,56 @@
+[
+  {
+    "id": "PUL-001",
+    "name": "Chickpeas",
+    "category": "Pulses",
+    "description": "A familiar pantry staple with a naturally hearty texture. Available for business enquiry; origin, grade and specifications to be confirmed.",
+    "image": "https://images.unsplash.com/photo-1515543904379-3d757afe72e4?auto=format&fit=crop&w=900&q=85",
+    "tag": "Pulse",
+    "featured": true
+  },
+  {
+    "id": "LEN-001",
+    "name": "Red Lentils",
+    "category": "Lentils",
+    "description": "Versatile red lentils suited to a wide range of food applications. Ask us about current availability and specification.",
+    "image": "https://images.unsplash.com/photo-1723999817243-e18f2904b140?auto=format&fit=crop&w=900&q=85",
+    "tag": "Lentil",
+    "featured": true
+  },
+  {
+    "id": "SPI-001",
+    "name": "Turmeric",
+    "category": "Whole spices",
+    "description": "A golden-hued culinary spice shown here as an illustrative catalogue item. Product form and grade require confirmation.",
+    "image": "https://images.unsplash.com/photo-1768729340925-2749ecdc211c?auto=format&fit=crop&w=900&q=85",
+    "tag": "Whole spice",
+    "featured": false
+  },
+  {
+    "id": "SPI-002",
+    "name": "Black Pepper",
+    "category": "Whole spices",
+    "description": "A classic whole spice for food-service and wholesale buyers. Enquire to discuss availability and product details.",
+    "image": "https://images.unsplash.com/photo-1554877959-06669e1c2edc?auto=format&fit=crop&w=900&q=85",
+    "tag": "Whole spice",
+    "featured": false
+  },
+  {
+    "id": "SPI-003",
+    "name": "Ground Chilli",
+    "category": "Ground spices",
+    "description": "A vibrant ground spice shown for catalogue demonstration. No grade, heat level or origin is implied.",
+    "image": "https://images.unsplash.com/photo-1768729340132-a8c72080bb23?auto=format&fit=crop&w=900&q=85",
+    "tag": "Ground spice",
+    "featured": true
+  },
+  {
+    "id": "PUL-002",
+    "name": "Green Mung Beans",
+    "category": "Pulses",
+    "description": "A versatile legume with broad culinary uses. Contact us to discuss an illustrative wholesale enquiry.",
+    "image": "https://images.unsplash.com/photo-1577110563838-e408b455c91d?auto=format&fit=crop&w=900&q=85",
+    "tag": "Pulse",
+    "featured": false
+  }
+]
